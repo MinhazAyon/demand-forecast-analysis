@@ -2,6 +2,8 @@
 
 [![License](https://img.shields.io/badge/license-MIT-green)](#license)
 
+![Forecast](artifacts/forecast_nx.png)
+
 ## Project Overview
 
 # **Project Overview**
@@ -35,9 +37,7 @@ The historical demand data presents several inherent challenges. Demand is highl
 ---
 ## Dataset Description
 
-The analysis uses the following datasets:
-
-# Link: [Demand Dataset](https://www.kaggle.com/datasets/felixzhao/productdemandforecasting)
+The analysis uses the following datasets: [Demand Dataset](https://www.kaggle.com/datasets/felixzhao/productdemandforecasting)
 
 ---
 
@@ -45,9 +45,8 @@ The analysis uses the following datasets:
 
 All the codes and analytics given in the ipynb:
 
-- [Full Version](codes/full_code_version.ipynb)
-
-- [Short Version](codes/minimised_code_version.ipynb)
+- [📁 Full Version](codes/full_code_version.ipynb)
+- [📁 Short Version](codes/minimised_code_version.ipynb)
 
 ---
 
